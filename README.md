@@ -25,21 +25,6 @@
 
 The project is hosted on GitHub: [E-commerce GitHub Repository](https://github.com/iLuiszin/e-commerce-dnc)
 
-
-Before running the project, make sure you have a `.env` file at the root of the project with the following environment variables:
-
-```plaintext
-MONGODB_URI=<your_mongodb_uri>
-CLIENT_URL=http://localhost:3000
-ACCESS_TOKEN_SECRET=<your_access_token_secret>
-REFRESH_TOKEN_SECRET=<your_refresh_token_secret>
-PORT=5000
-CLOUD_NAME=<your_cloudinary_cloud_name>
-CLOUD_API_KEY=<your_cloudinary_api_key>
-CLOUD_API_SECRET_KEY=<your_cloudinary_api_secret_key>
-ENVIRONMENT=development
-```
-
 ## 🔨 Project Features
 
 - **Product Catalog**: Users can browse a catalog of available products, view details and add items to cart.
@@ -88,22 +73,6 @@ Feel free to reach out if you have any questions or suggestions!
 ## 📁 Acesso ao Projeto
 
 O projeto está hospedado no GitHub: [Repositório E-Commerce no GitHub](https://github.com/iLuiszin/e-commerce-dnc)
-
-
-
-Antes de executar o projeto, certifique-se de ter um arquivo `.env` na raiz do projeto com as seguintes variáveis de ambiente:
-
-```plaintext
-MONGODB_URI=<sua_uri_do_mongodb>
-CLIENT_URL=http://localhost:3000
-ACCESS_TOKEN_SECRET=<seu_access_token_secret>
-REFRESH_TOKEN_SECRET=<seu_refresh_token_secret>
-PORT=5000
-CLOUD_NAME=<seu_nome_de_nuvem_do_cloudinary>
-CLOUD_API_KEY=<sua_chave_api_do_cloudinary>
-CLOUD_API_SECRET_KEY=<sua_chave_secreta_api_do_cloudinary>
-ENVIRONMENT=development
-```
 
 ## 🔨 Funcionalidades do Projeto
 
