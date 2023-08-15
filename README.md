@@ -1,4 +1,4 @@
-# Caneca Cheia
+# E-commerce DNC
 
 [English](#english)
 |
