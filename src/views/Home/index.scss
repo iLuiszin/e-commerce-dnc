@@ -1,0 +1,11 @@
+@use '../../sass/variables' as *;
+
+.home {
+    &__products {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 6rem;
+        padding: 0 166px 166px;
+    }
+}
